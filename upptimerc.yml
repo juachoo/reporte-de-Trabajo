@@ -21,7 +21,7 @@ status-website:
 
 #add your domain or remove the 'cname' line if you don't have a domain
 #Uncomment the baseURL line if you dont'n have domaina add your repo name there
-#cname: juancho
+cname: https://juachoo.github.io/reporte-de-Trabajo/
 
 baseURL: /reporte-de-Trabajo
 
