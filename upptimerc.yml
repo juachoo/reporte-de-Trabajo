@@ -1,0 +1,36 @@
+#change these first
+
+owner: juachoo #your GITHUB organization or username, where this repository lives
+repo: upptime #the name of this repository
+
+
+sites: 
+
+name: Google
+url: https://www.google.com 
+name: Fredrikson
+url: https://www.fredrikson.com.ar
+name: Pelado Nerd
+url: https://juachoo.github.io/reporte-de-Trabajo/
+
+
+assignees: 
+-juachoo
+
+status-website:
+
+#add your domain or remove the 'cname' line if you don't have a domain
+#Uncomment the baseURL line if you dont'n have domaina add your repo name there
+#cname: juancho
+
+baseURL: /reporte-de-Trabajo
+
+logoURL: https://raw.githubsercontent.com/upptime.js.org/master/static/img/icon.svg
+name: Juancho Inge
+introTitle: "**Upptime is the ope-sourve uptime monitor and status page, powered entirely by GITHUB."
+introMessage: This is sample status page uses **real-time** data from our data from our [GITHUB repository](https://github.com/upptime/upptime)
+navbar:
+-title: Status
+href: /
+title: GITHUb
+href: https://github.com/$OWNER/$REPO
